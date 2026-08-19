@@ -8,6 +8,9 @@ package medicare.hospital.patient.admission.system;
  *
  * @author Student
  */
-public class PatientCategory {
+public enum PatientCategory {
     
+    INPATIENT,
+    OUTPATIENT,
+    EMERGENCY        
 }
