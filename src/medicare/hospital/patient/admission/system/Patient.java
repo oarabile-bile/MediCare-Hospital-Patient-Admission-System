@@ -27,9 +27,15 @@ public class Patient {
         this.category = category;
     }
 
-    Patient(String id, String firstName, String lastName, int age, String gender, String condition, PatientCategory category) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
+   public Patient(String patientId, String firstName, String lastName, int age, String gender, String medicalCondition, PatientCategory category) {
+    this.patientId = patientId;
+    this.firstName = firstName;
+    this.lastName = lastName;
+    this.age = age;
+    this.gender = gender;
+    this.medicalCondition = medicalCondition;
+    this.category = category;
+}
     
     
     public String getPatientId() { return patientId; }
