@@ -4,6 +4,14 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/Student/Documents/MediCare%20Hospital%20Patient%20Admission%20System/src/medicare/hospital/patient/admission/system/HospitalApp.java</file>
+            <file>file:/C:/Users/Student/Documents/MediCare%20Hospital%20Patient%20Admission%20System/src/medicare/hospital/patient/admission/system/Patient.java</file>
+            <file>file:/C:/Users/Student/Documents/MediCare%20Hospital%20Patient%20Admission%20System/src/medicare/hospital/patient/admission/system/Inpatient.java</file>
+            <file>file:/C:/Users/Student/Documents/MediCare%20Hospital%20Patient%20Admission%20System/src/medicare/hospital/patient/admission/system/Ward.java</file>
+            <file>file:/C:/Users/Student/Documents/MediCare%20Hospital%20Patient%20Admission%20System/src/medicare/hospital/patient/admission/system/PatientManager.java</file>
+            <file>file:/C:/Users/Student/Documents/MediCare%20Hospital%20Patient%20Admission%20System/src/medicare/hospital/patient/admission/system/PatientCategory.java</file>
+            <file>file:/C:/Users/Student/Documents/MediCare%20Hospital%20Patient%20Admission%20System/src/medicare/hospital/patient/admission/system/PatientNotFoundException.java</file>
+            <file>file:/C:/Users/Student/Documents/MediCare%20Hospital%20Patient%20Admission%20System/src/medicare/hospital/patient/admission/system/NoBedAvailableException.java</file>
+            <file>file:/C:/Users/Student/Documents/MediCare%20Hospital%20Patient%20Admission%20System/src/medicare/hospital/patient/admission/system/DuplicatePatientException.java</file>
         </group>
     </open-files>
 </project-private>
